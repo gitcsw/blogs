@@ -1,0 +1,73 @@
+{
+    "title": "饼哥哥&csw博客",
+    "description": "饼哥哥&csw博客",
+    "author": "bingo",
+    "gitbook" : "3.2.3",
+    "generator": "site",
+    "language": "zh-hans",
+    "keywords": "饼哥哥&csw博客",
+    "styles": {
+        "website": "styles/website.css"
+    },
+    "plugins": [
+        "-lunr",
+        "-search",
+        "-highlight",
+        "-fontsettings",
+        "-sharing",
+        "search-pro",
+        "favicon",
+        "prism",
+        "prism-themes",
+        "edit-link",
+        "anchors",
+        "github",
+        "search-plus",
+        "expand-active-chapter",
+        "expandable-chapters-interactive",
+        "theme-comscore",
+        "footer",
+        "tbfed-pagefooter",
+        "baidu",
+        "sitemap",
+        "changyan"
+    ],
+    "pluginsConfig": {
+        "edit-link": {
+            "base": "https://github.com/martincsj1995",
+            "label": "编辑本页面"
+        },
+        "github": {
+            "url": "https://github.com/martincsj1995"
+        },
+        "favicon": {
+            "shortcut": "static/favicon.ico"
+        },
+        "tbfed-pagefooter": {
+            "copyright": "© 2018 - 2019 blog.cosiw.cn 浙ICP备18032232号-1",
+            "modify_label": "更新于：",
+            "modify_format": "YYYY-MM-DD HH:mm"
+        },
+        "changyan": {
+            "appid": "cyu2tP8NP",
+            "conf": "prod_6a2fbfbab1b4b1e755635eb6528ab995"
+        },
+        "disqus": {
+            "shortName": "gitbook-tutorial"
+        },
+        "sitemap": {
+            "hostname": "https://blog.cosiw.cn/"
+        },
+        "baidu": {
+            "token": "fa71790c00e0fac208165f57a058c656"
+        },
+        "prism": {
+            "css": [
+                "prism-themes/themes/prism-vs.css"
+            ]
+        },
+        "layout": {
+            "footerPath": "styles/footer.html"
+        }
+    }
+}
