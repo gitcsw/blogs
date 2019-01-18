@@ -5,27 +5,39 @@
     * 基础入门
         * [PHP介绍](catalogue/php/basics/php_introduce.md)
         * [PHP运行模式和原理](catalogue/php/basics/php_run_model.md)
-        * [PHP-FPM](catalogue/php/basics/php_fpm.md)
-        * [PHP-CLI](catalogue/php/basics/php_cli.md)
+    * PHP7.0内核底层.学习中
+        * [字符串底层实现](catalogue/php/fabric/string.md)
 * C语言
     * 基础入门
         * [xxx]
         * [XXXX]
+    * SWOOLE
+        * [内核.学习中]
+        * [常见的用法]
+        * [简单的案例]
 * Nginx
     * 基础入门
-        * [xxx]
-        * [XXXX]
+        * [配置参数说明]
+        * [常见的配置]
 * LINUX
     * UnixSocket
-        * [xxx]
-        * [XXXX]
+        * [介绍]
+        * [通信方式]
+        * [工作模式]
     * Linux内核基础
-        * [xxx]
+        * [内核优化篇]
     * I/O
-        * [xxx]
+        * [常见的模型]
+        * [异步/同步]
+        * [阻塞/非阻塞]
+    * 网络协议
+        * [工作方式]
+        * [常用协议介绍]
+        * [层级介绍]
 * DOCKER
     * 基础入门
-        * [xxx]
-        * [XXXX]
+        * [介绍]
+        * [核心概念]
+        * [层级介绍]
 * [关于我](catalogue/user/info.md)
 
