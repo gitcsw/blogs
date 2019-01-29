@@ -9,8 +9,9 @@
         * [字符串底层实现](catalogue/php/fabric/string.md)
 * C语言
     * 基础入门
-        * [xxx]
-        * [XXXX]
+        * [C语言还需要介绍吗？？](catalogue/c/basics/c_introduce.md)
+        * [教程惯例:Hello World!](catalogue/c/basics/c_hello.md)
+		* [基本语法规范](catalogue/c/basics/c_hello2.md)
     * SWOOLE
         * [内核.学习中]
         * [常见的用法]
@@ -40,4 +41,3 @@
         * [核心概念]
         * [层级介绍]
 * [关于我](catalogue/user/info.md)
-
