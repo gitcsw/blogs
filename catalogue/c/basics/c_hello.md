@@ -21,11 +21,12 @@ windows下可以IDE[集成开发环境(Integrated Development Environment)]进�
 ### 0x02 编译第一个程序
 ---
 这次以gcc编译为例：
-- 文件保存不多说，上文已介绍；
 
-+ 安装Gcc:(网上有太多文章，没必要重写，直接借鉴修改如下)
+一、文件保存不多说，上文已介绍；
 
-- Windows篇：(https://www.jianshu.com/p/dc0fc5d8c900 作者：飘荡的叶子)
+二、安装Gcc:(网上有太多文章，没必要重写，直接借鉴修改如下)
+
+Windows篇：(https://www.jianshu.com/p/dc0fc5d8c900 作者：飘荡的叶子)
 
 1、在 Windows 上安装 GCC，需要到MinGW 的主页 www.mingw.org，进入 MinGW 下载页面，下载最新版本的 MinGW 安装程序；
 
