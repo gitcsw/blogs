@@ -25,6 +25,7 @@ windows下可以IDE[集成开发环境(Integrated Development Environment)]进�
 - 安装Gcc:(网上有太多文章，没必要重写，直接借鉴修改如下)
 
 Windows篇：(https://www.jianshu.com/p/dc0fc5d8c900 作者：飘荡的叶子)
+
 1、在 Windows 上安装 GCC，需要到MinGW 的主页 www.mingw.org，进入 MinGW 下载页面，下载最新版本的 MinGW 安装程序；
 
 2、添加环境变量：选择计算机—属性---高级系统设置---环境变量，在系统变量中找到 Path 变量，在后面加入 min-gw的安装目录，如 D:\MinGw\bin；
@@ -36,6 +37,7 @@ Windows篇：(https://www.jianshu.com/p/dc0fc5d8c900 作者：飘荡的叶子)
 5、编译：输入gcc hello.c，即可生成exe文件，双击运行查看效果。注意如果你的hello.c在别处，请写相对地址或绝对地址，如：gcc C:\hello.c。
 
 Linux篇：
+
 最简单的方法就是：yum install gcc -y，等待安装完毕即可。
 
 ### 0x03 小结
