@@ -26,4 +26,4 @@ windows下可以IDE[集成开发环境(Integrated Development Environment)]进�
 ### 0x03 小结
 编程有风险，入坑需谨慎。
 
-![Image text](https://raw.githubusercontent.com/gitcsw/blogs/master/catalogue/c/images/00.jpg)
+![Image text](https://raw.githubusercontent.com/gitcsw/blogs/master/catalogue/c/images/00.png)
