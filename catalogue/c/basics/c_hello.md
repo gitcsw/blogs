@@ -22,9 +22,10 @@ windows下可以IDE[集成开发环境(Integrated Development Environment)]进�
 ---
 这次以gcc编译为例：
 - 文件保存不多说，上文已介绍；
-- 安装Gcc:(网上有太多文章，没必要重写，直接借鉴修改如下)
 
-Windows篇：(https://www.jianshu.com/p/dc0fc5d8c900 作者：飘荡的叶子)
++ 安装Gcc:(网上有太多文章，没必要重写，直接借鉴修改如下)
+
+- Windows篇：(https://www.jianshu.com/p/dc0fc5d8c900 作者：飘荡的叶子)
 
 1、在 Windows 上安装 GCC，需要到MinGW 的主页 www.mingw.org，进入 MinGW 下载页面，下载最新版本的 MinGW 安装程序；
 
@@ -41,6 +42,7 @@ Linux篇：
 最简单的方法就是：yum install gcc -y，等待安装完毕即可。
 
 ### 0x03 小结
+---
 编程有风险，入坑需谨慎。
 
-![Image text](https://raw.githubusercontent.com/gitcsw/blogs/master/catalogue/c/images/00.png)
+![Image c00](https://raw.githubusercontent.com/gitcsw/blogs/master/catalogue/c/images/00.png)
