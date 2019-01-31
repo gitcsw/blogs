@@ -5,7 +5,7 @@
 #include <stdio.h>//引用头文件
 int main(void)//入口函数
 {
-	printf("hello world\n");
+    printf("hello world\n");
     return 0;
 }
 ```
